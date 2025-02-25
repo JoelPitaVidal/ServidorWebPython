@@ -94,7 +94,6 @@ if __name__ == "__main__":
 ## 🛠️ Mejoras futuras
 - Agregar soporte para otros tipos de archivos como imágenes y scripts JavaScript.
 - Implementar rutas dinámicas.
-- Servir archivos desde un directorio público de manera automática.
 
 📌 **Desarrollado con Python** 🐍
 
